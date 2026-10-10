@@ -45,3 +45,8 @@ An end-to-end data analytics project analyzing transactional patterns, unit econ
 ├── e_commerce_dashboard.png            # Executive dashboard screenshot preview
 ├── LICENSE                             # MIT Open Source License
 └── README.md                           # Comprehensive project documentation
+
+
+## 👨‍💻 Author
+**Mayur Sarode**
+* Data Analytics & Business Intelligence Portfolio
